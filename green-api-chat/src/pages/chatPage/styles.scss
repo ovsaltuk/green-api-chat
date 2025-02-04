@@ -1,0 +1,19 @@
+.chat {
+    padding: 12px 60px;
+    height: 100%;
+    background-color: rgb(239, 234, 226);
+    background-image: url("https://static.whatsapp.net/rsrc.php/v4/yl/r/gi_DckOUM5a.png");
+    background-repeat: repeat;
+}
+
+.logout {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
